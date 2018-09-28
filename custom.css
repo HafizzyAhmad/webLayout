@@ -50,6 +50,16 @@ html,body {
     background-color: #d800ff;
 }
 
+.absolute{
+    display: block;
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    background-color: white;
+    top: 185px;
+    left: 100px;
+}
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
