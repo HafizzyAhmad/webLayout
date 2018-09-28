@@ -7,6 +7,10 @@ html,body {
     margin: 0;
 }
 
+    /* Position Absolute akan start at the beginning of element
+    Source : https: //medium.com/@jacobgreenaway12/taming-the-css-beast-master-positioning-5882bad14458
+    */
+
 .parent{
     height: 100%;
     width: 100%;
