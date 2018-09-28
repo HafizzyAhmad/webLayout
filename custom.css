@@ -33,9 +33,13 @@ html,body {
 .hijau{
     width: 50%;
     height: 99%;
+    /* Position Absolute akan start at the beginning of element
+    Source : https: //medium.com/@jacobgreenaway12/taming-the-css-beast-master-positioning-5882bad14458
+    */
     position: absolute;
     background-color: #00ff14;
     right: 0;
+    /* Hardcoded from testing chrome browser */
     top: 92px;
 }
 
